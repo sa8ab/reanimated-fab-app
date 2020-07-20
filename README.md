@@ -5,7 +5,7 @@ Reanimated floating action button - the app.
 
 I may also publish a npm package for it.
 
-![demo](https://i.imgur.com/h9HdrKl.mp4)
+[demo](https://i.imgur.com/h9HdrKl.mp4)
 
 # usage
 
